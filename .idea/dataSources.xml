@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1591272524">
+    <data-source source="LOCAL" name="Rails portfolio: development" uuid="cb918f3d-2ca1-40b2-a403-a42d193281d7">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:portfolio_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails portfolio: test" uuid="1d90895c-5e15-4dda-96a8-d362662c9520">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:portfolio_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails portfolio: production" uuid="ae5456e8-3262-409c-a6e0-8a7c555739d9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:portfolio_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

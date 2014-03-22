@@ -7,6 +7,9 @@ gem 'rails', '4.0.3'
 gem 'pg'
 gem 'rails_12factor'
 
+# For Heroku
+gem 'newrelic_rpm'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
