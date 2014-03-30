@@ -1,0 +1,133 @@
+# Logfile created on 2014-03-22 13:02:08 -0400 by logger.rb/41954
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Starting the New Relic agent in "development" environment.
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Reading configuration from 
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Enabling the Request Sampler.
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Environment: development
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Dispatcher: webrick
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Application: development
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing ActiveRecord 4 instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing Net instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing deferred Rack instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing Unicorn instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing Rails 4 Controller instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing Rails 4 view instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Installing Rails4 Error instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Finished instrumentation
+[03/22/14 13:02:08 -0400 Williams-MacBook-Air-2.local (433)] INFO : Doing deferred dependency-detection before Rack startup
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Starting the New Relic agent in "development" environment.
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Reading configuration from 
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Enabling the Request Sampler.
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Environment: development
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Dispatcher: webrick
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Application: development
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing ActiveRecord 4 instrumentation
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing Net instrumentation
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing deferred Rack instrumentation
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing Unicorn instrumentation
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/22/14 13:59:28 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing Rails 4 Controller instrumentation
+[03/22/14 13:59:29 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing Rails 4 view instrumentation
+[03/22/14 13:59:29 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Installing Rails4 Error instrumentation
+[03/22/14 13:59:29 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Finished instrumentation
+[03/22/14 13:59:29 -0400 Williams-MacBook-Air-2.local (1331)] INFO : Doing deferred dependency-detection before Rack startup
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Starting the New Relic agent in "development" environment.
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Reading configuration from 
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Enabling the Request Sampler.
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Environment: development
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : No known dispatcher detected.
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Application: development
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing ActiveRecord 4 instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing Net instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing deferred Rack instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing Unicorn instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing Rails 4 Controller instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing Rails 4 view instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Installing Rails4 Error instrumentation
+[03/22/14 14:33:19 -0400 Williams-MacBook-Air-2.local (1991)] INFO : Finished instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Starting the New Relic agent in "development" environment.
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Reading configuration from 
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Enabling the Request Sampler.
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Environment: development
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Dispatcher: webrick
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Application: development
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing ActiveRecord 4 instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing Net instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing deferred Rack instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing Unicorn instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing Rails 4 Controller instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing Rails 4 view instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Installing Rails4 Error instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Finished instrumentation
+[03/22/14 14:47:47 -0400 Williams-MacBook-Air-2.local (2239)] INFO : Doing deferred dependency-detection before Rack startup
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Starting the New Relic agent in "development" environment.
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Reading configuration from 
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Enabling the Request Sampler.
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Environment: development
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Dispatcher: webrick
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Application: development
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing ActiveRecord 4 instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing Net instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing deferred Rack instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing Unicorn instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing Rails 4 Controller instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing Rails 4 view instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Installing Rails4 Error instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Finished instrumentation
+[03/24/14 15:06:04 -0400 Williams-MacBook-Air-2.local (4034)] INFO : Doing deferred dependency-detection before Rack startup
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Starting the New Relic agent in "development" environment.
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Reading configuration from 
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Enabling the Request Sampler.
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Environment: development
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Dispatcher: webrick
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Application: development
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing ActiveRecord 4 instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing Net instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing deferred Rack instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing Unicorn instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing Rails 4 Controller instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing Rails 4 view instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Installing Rails4 Error instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Finished instrumentation
+[03/24/14 21:49:02 -0400 Williams-MacBook-Air-2.local (1138)] INFO : Doing deferred dependency-detection before Rack startup
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Starting the New Relic agent in "development" environment.
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Reading configuration from 
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] ERROR : Unable to read configuration file : Is a directory - /Users/wmantegna/Documents/Ruby/portfolio
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Enabling the Request Sampler.
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Environment: development
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Dispatcher: webrick
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Application: development
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing ActiveRecord 4 instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing Net instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing deferred Rack instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing Unicorn instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing Rails 4 Controller instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing Rails 4 view instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Installing Rails4 Error instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Finished instrumentation
+[03/30/14 13:22:10 -0400 Williams-MacBook-Air-2.local (2355)] INFO : Doing deferred dependency-detection before Rack startup
